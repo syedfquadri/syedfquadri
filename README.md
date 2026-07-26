@@ -1,5 +1,3 @@
-Hi there👋, it's SyedFQuadri !
-
-## &#x1f4c8; GitHub Stats
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfquadri&langs_count=8&&bg_color=2e3440&text_color=8a919a)
+<div align="center">
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=syedfquadri"></a>
+</div>
